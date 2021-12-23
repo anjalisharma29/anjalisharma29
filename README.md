@@ -1,16 +1,35 @@
-### Hi there 👋
+<h2> Hey there! I'm Anjali ✌🌟</h2>
 
-<!--
-**anjalisharma29/anjalisharma29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/anjalisharma29/">
+  <img align="left" alt="Anjali's LinkdeIN" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-256.png" />
+</a>
+<a href="https://www.instagram.com/anjalisharma29615/">
+  <img align="left" alt="Anjali's Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_3-instagram-256.png" />
+</a>
+<br>
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently learning Cyber Security
+- 🎓 Currently pursuing Computer Science Engineering (Sophomore) 
+- 👨‍💻 Python developer and front-end web developer.
+- 🔭 Exploring Competetive Programming
+- 🌱 Enthusiast in Cyber Security and Machine Learning
+- ⚡ Life shrinks and expands on the proportion of your willingness to take risks and try new things 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+- 💻 C | C++ | Java | JavaScript
+- 🔧 Visual Studio Code | Brackets | GitHub
+- 💽 Adobe Xd | Illustrator | Photoshop | Figma
+
+<br>
+
+<a href="https://github.com/anjalisharma29">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=anjalisharma29&show_icons=true&theme=light&line_height=27" alt="Anjali's github stats"/>
+</a>
+
+<br>
+<br>
+
+![Profile views](https://gpvc.arturio.dev/anjalisharma29) 
+
