@@ -9,11 +9,10 @@
 <br>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently learning Cyber Security
-- 🎓 Currently pursuing Computer Science Engineering (Sophomore) 
-- 👨‍💻 Python developer and front-end web developer.
-- 🔭 Exploring Competetive Programming
-- 🌱 Enthusiast in Cyber Security and Machine Learning
+- 🔭 I’m currently learning UI/UX Designing
+- 🎓 Currently pursuing Computer Science Engineering (Junior) 
+- 👨‍💻 front-end web developer.
+- 🔭 Enthusiast in Adobe XD and Figma
 - ⚡ Life shrinks and expands on the proportion of your willingness to take risks and try new things 
 
 <h3>🛠 Tech Stack</h3>
