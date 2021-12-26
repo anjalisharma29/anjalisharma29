@@ -9,15 +9,15 @@
 <br>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently learning UI/UX Designing
-- 🎓 Currently pursuing Computer Science Engineering (Junior) 
-- 👨‍💻 front-end web developer.
-- 🔭 Enthusiast in Adobe XD and Figma
+- 🎓 Currently pursuing Computer Science Engineering (Junior).
+- 👨‍💻 I'm Front-end web developer. 
+- 🔭 Currently learning UI/UX Designing.
+- 🔭 Optimist in Adobe XD/Figma.
 - ⚡ Life shrinks and expands on the proportion of your willingness to take risks and try new things 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 C | C++ | Java | JavaScript
+- 💻 C | Java | C++ | JavaScript
 - 🔧 Visual Studio Code | Brackets | GitHub
 - 💽 Adobe Xd | Illustrator | Photoshop | Figma
 
