@@ -23,9 +23,15 @@
 
 <br>
 
-<a href="https://github.com/anjalisharma29">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=anjalisharma29&show_icons=true&theme=light&line_height=27" alt="Anjali's github stats"/>
-</a>
+## My GitHub Stats: 📊
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anjalisharma29&theme=radical&show_icons=true&count_private=true" alt="anjalisharma29":: Profile Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalisharma29&langs_count=8&theme=radical&layout=compact" alt="anjalisharma29":: Top Langs" />
+</p>
+<p align="center">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bediaashlee&theme=radical" alt="anjalisharma29":: readme stats" />
+</p>
+
 
 <br>
 <br>
