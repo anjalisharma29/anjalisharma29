@@ -39,6 +39,37 @@
 
 <br>
 <br>
+# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+<p>
+ <a href="https://twitter.com/Anjalis77589131">
+  <img align="left" alt="Anjali's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+ </a>
+<a href="https://www.linkedin.com/in/anjali-sharma-9652811a7/">
+  <img align="left" alt="Anjali's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/anjalisharma29">
+  <img align="left" alt="Anjali's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.hackerrank.com/anjali0407_cse19">
+  <img align="left" alt="Anjali's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
+ <a href="https://auth.geeksforgeeks.org/user/anjali0407cse19/profile">
+  <img align="left" alt="Anjali's GFG" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
+</a></p>
+ <br>
+ <br>
+ 
+ #### Thanks for visiting :gift:
+![VisitorCount](https://profile-counter.glitch.me/anjalisharma29/count.svg)
 
-![Profile views](https://gpvc.arturio.dev/anjalisharma29) 
+<h3 align="right">Appreciate your feedback <img src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" width="60px"></h3>
+
+---
+
+⭐️ From [@anjalisharma29](https://github.com/anjalisharma29)
+
+                                                                          
+                                                                                                                                               
+                                                                                                                                               
+
 
