@@ -37,8 +37,7 @@
 </p>
 
 
-<br>
-<br>
+
 Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 <p>
  <a href="https://twitter.com/Anjalis77589131">
