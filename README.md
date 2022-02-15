@@ -36,7 +36,7 @@
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bediaashlee&theme=radical" alt="anjalisharma29":: readme stats" />
 </p>
 
-
+<br>
 
 Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 <p>
